@@ -31,7 +31,7 @@
                         },{
                             "name": "concorde",
                             "url": "../../../../models/aircraft/premium/concorde/concorde.gltf",
-                            "position": [40.765665, -74.001778, 0],
+                            "position": [40.765665, -74.001778, 4],
                             "rotation": [110, 0, 0],
                             "scale": [1, 1, 1]
                         },{
