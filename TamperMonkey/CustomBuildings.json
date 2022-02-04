@@ -130,6 +130,12 @@
                             "position": [51.50072163386705, -0.12460950809854282, 50],
                             "rotation": [0, 0, 0],
                             "scale": [1, 1, 1]
+                        },  {
+                            "name": "bristol terminal",
+                            "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/Bristol_Terminal.glb",
+                            "position": [51.38622, -2.71013, 50],
+                            "rotation": [0, 0, 0],
+                            "scale": [1, 1, 1]
                         }, {
                             "name": "philly",
                             "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/philly_test.glb",
