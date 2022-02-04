@@ -1,13 +1,25 @@
+// ==UserScript==
+// @name         Geo-FS Builidings
+// @namespace    http://tampermonkey.net/
+// @version      0.2
+// @description  3D buildings for Geo-FS
+// @author       Eco, AF267, Elon, GT
+// @match http://*/geofs.php*
+// @match https://*/geofs.php*
+// @run-at document-end
+// @version 0.2
+// @grant        none
+// @require http://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
 var objs;
 
 //Get the model list
-fetch('https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/custom_b_v2.json')
+fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/CustomBuildings.json?token=GHSAT0AAAAAABQ3NN4S7KTB4ANY5A56AWDOYP5OROA')
     .then(res => res.json())
     .then(data => objs = data)
+    .then(() => console.log(objs))
 
 ! function(e) {
-    //Spawning Function
     function spawnModel(modelJson, modelArray){
         var name = modelJson.name;
         var url = modelJson.url;
@@ -35,25 +47,20 @@ fetch('https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0
         geofs.api.setModelPositionOrientationAndScale(model,position,rotation,scale);
 
         //Adding the model and position to a list
-        const modelInfo = [];
+        const modelInfo = [,];
         modelInfo.push(model,position);
         modelArray.push(modelInfo);
-        console.log("Spawned: "+name);
-    }
-    //Deleting Function
-    function deleteModel(modelArray, index){
-        var modelToDelete = modelArray[index];
-        geofs.api.destroyModel(modelToDelete[0]);
-        modelArray.pop(modelToDelete);
+        console.log("Spawned: "+name+" at: "+position);
     }
     var o = setInterval(function() {
         window.geofs && geofs.aircraft && geofs.aircraft.instance && geofs.aircraft.instance.object3d && (clearInterval(o), function() {
+
             //Spawning all of the buildings in the List
-            const loadedModels = [];
+            const loadedModels = [ , ];
             for (var i = 0; i < objs.length; i++) {
                 spawnModel(objs[i],loadedModels);
             }
-            console.log(loadedModels);
+
         }())
     }, 100)
 }();
