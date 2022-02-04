@@ -14,7 +14,7 @@
 var objs;
 
 //Get the model list
-fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/CustomBuildings.json?token=GHSAT0AAAAAABQ3NN4S7KTB4ANY5A56AWDOYP5OROA')
+fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/CustomBuildings.json')
     .then(res => res.json())
     .then(data => objs = data)
     .then(() => console.log(objs))
