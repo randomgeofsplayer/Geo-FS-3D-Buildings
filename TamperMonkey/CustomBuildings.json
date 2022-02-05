@@ -143,9 +143,9 @@
                             "rotation": [0, 0, 0],
                             "scale": [1, 1, 1]
                         }, {
-                            "name": "Bristol Terminal",
-                            "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/bristol_terminal_b.glb",
+                            "name": "Bristol Airport",
+                            "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/bristol_appt.glb",
                             "position": [51.38536, -2.71373, 173.07092733112788],
-                            "rotation": [49.7, 0, 0],
+                            "rotation": [50, 0, 0],
                             "scale": [1, 1, 1]
                         }]
