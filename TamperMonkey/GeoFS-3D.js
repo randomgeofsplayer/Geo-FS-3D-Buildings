@@ -46,7 +46,7 @@ fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings
         //Loading the model and adding it to the list of loaded models
         var model = geofs.api.loadModel(url);
         geofs.api.setModelPositionOrientationAndScale(model,position,rotation,scale);
-        console.log("Spawned: "+name);
+        console.log("Spawned: "+name+" at: "+position);
         return model
     }
     //Deleting Function
