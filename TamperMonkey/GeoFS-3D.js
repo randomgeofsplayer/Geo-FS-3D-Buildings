@@ -103,7 +103,7 @@ fetch('https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0
                         let model = spawnModel(objInfo[0]);
                         objInfo[1] = model;
                         objInfo[3] = true;
-                        console.log("Spawned: "+objInfo[0].name);//If it is in range but not spawned, it needs to be spawned
+                        //console.log("Spawned: "+objInfo[0].name);//If it is in range but not spawned, it needs to be spawned
                     }
                     else if (active == false && objInfo[3] == true){
                         deleteModel(objInfo[1]);
