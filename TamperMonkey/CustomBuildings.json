@@ -139,7 +139,7 @@
                         }, {
                             "name": "bristol terminal",
                             "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/bristol_terminal_x.glb",
-                            "position": [40.642468, -73.781306, 0],
+                            "position": [51.38622, -2.71013, 190],
                             "rotation": [0, 0, 0],
-                            "scale": [1, 1, 1]
+                            "scale": [120, 120, 120]
                         }]
