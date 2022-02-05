@@ -6,7 +6,6 @@
 // @author       Eco, AF267, Elon, GT
 // @match http://*/geofs.php*
 // @match https://*/geofs.php*
-// @run-at document-end
 // @version 0.3
 // @grant        none
 // @require http://code.jquery.com/jquery-3.4.1.min.js
