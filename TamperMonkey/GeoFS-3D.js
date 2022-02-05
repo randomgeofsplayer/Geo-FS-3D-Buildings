@@ -15,7 +15,7 @@ var maxDistance = 5;
 var objs;
 
 //Get the model list
-fetch('https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/custom_b_v2.json')
+fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/CustomBuildings.json')
     .then(res => res.json())
     .then(data => objs = data)
 
