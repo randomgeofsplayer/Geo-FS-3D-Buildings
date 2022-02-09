@@ -146,7 +146,7 @@
                             "name": "Fairbanks Airport",
                             "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/fairbanks_terminal_rotation.glb",
                             "position": [64.81758, -147.86789, 132.8094065404741],
-                            "rotation": [76.3, 0, 0],
+                            "rotation": [0, 0, 0],
                             "scale": [1, 1, 1]
                         },{
                             "name": "Bristol Airport",
