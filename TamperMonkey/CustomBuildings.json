@@ -160,4 +160,10 @@
                             "position": [48.858093, 2.294694, 50],
                             "rotation": [45, 0, 0],
                             "scale": [1, 1, 1]
+                        },{
+                            "name": "Heathrow and surroundings",
+                            "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/heathrow.glb",
+                            "position": [51.467538, -0.456035, 50],
+                            "rotation": [0, 0, 0],
+                            "scale": [1, 1, 1]
                         }]
