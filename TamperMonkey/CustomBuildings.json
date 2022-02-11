@@ -205,7 +205,7 @@
                         },{
                             "name": "CDG (charles de gaulle paris)",
                             "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/cdg2.glb",
-                            "position": [49.008293407258684, 2.5532626433579013, 5],
+                            "position": [49.008293407258684, 2.5532626433579013, 15],
                             "rotation": [90, 0, 0],
                             "scale": [0.7, 0.7, 0.7]
                         }]
