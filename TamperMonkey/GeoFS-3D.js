@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  3D buildings for Geo-FS
-// @author       Eco, AF267, Elon, GT
+// @author       Eco, AF267, Elon, GT, Echo_3
 // @match http://*/geofs.php*
 // @match https://*/geofs.php*
 // @version 0.3
