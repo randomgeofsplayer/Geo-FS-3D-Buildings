@@ -182,7 +182,7 @@
                             "name": "AUS parliament",
                             "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/parliamenthouse.glb",
                             "position": [-35.308170027702445, 149.1244413093468, 590],
-                            "rotation": [0, 0, 0],
+                            "rotation": [90, 0, 0],
                             "scale": [1,1,1]
                         },{
                             "name": "Canberra surroundings 2",
