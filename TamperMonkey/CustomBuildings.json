@@ -243,5 +243,14 @@
   "rotation": [90, 0, 0],
   "scale": [0.65, 0.65, 0.65],
   "type": "airport"
+},
+,{
+  "name": "QE2(Carrie)",
+  "comment": "This is mostly a test, added to this json for ease of use",
+  "url": "https://github.com/Ecological314/GeoFS-Custom-Carrier/blob/main/QE2%20model.glb",
+  "position": [50.76575873754467, -1.1927880445846175, 0],
+  "rotation": [90, 0, 0],
+  "scale": [1,1,1],
+  "type": "addon"
 }]
 
