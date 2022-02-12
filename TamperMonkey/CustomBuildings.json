@@ -247,7 +247,7 @@
 {
   "name": "QE2(Carrie)",
   "comment": "This is mostly a test, added to this json for ease of use",
-  "url": "https://github.com/Ecological314/GeoFS-Custom-Carrier/blob/main/QE2%20model.glb",
+  "url": "https://www.geo-fs.com/backend/aircraft/repository/Flighter%20Jet_310810_2198/QE2model.glb",
   "position": [50.76575873754467, -1.1927880445846175, 0],
   "rotation": [90, 0, 0],
   "scale": [1,1,1],
