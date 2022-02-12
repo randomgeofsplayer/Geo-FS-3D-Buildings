@@ -26,7 +26,7 @@
                             "name": "intrepid",
                             "url": "../../../../models/objects/carrier/carrier.gltf",
                             "position": [40.76683642677340, -74.0029338852795, 0],
-                            "rotation": [110, 0, 0],
+                            "rotation": [0, 0, 0],
                             "scale": [1, 1, 1]
                         },{
                             "name": "concorde",
