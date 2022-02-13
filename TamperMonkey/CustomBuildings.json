@@ -259,5 +259,12 @@
   "rotation": [0, 0, 0],
   "scale": [1,1,1],
   "type": "addon"
+},{
+  "name": "hollywood sign",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/hollywood_sign.glb",
+  "position": [34.13475904045216, -118.32040314329417, 0],
+  "rotation": [90, 0, 0],
+  "scale": [0.65, 0.65, 0.65],
+  "type": "airport"
 }]
 
