@@ -266,5 +266,12 @@
   "rotation": [90, 0, 0],
   "scale": [0.65, 0.65, 0.65],
   "type": "landmark"
+},{
+  "name": "starbase",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/starbase.glb",
+  "position": [25.996018195282943, -97.15440103944368, 0],
+  "rotation": [90, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
 }]
 
