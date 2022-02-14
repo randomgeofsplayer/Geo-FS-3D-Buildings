@@ -281,5 +281,13 @@
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
+},{
+  "name": "Burj Khalifa",
+  "credit": "From:Indicate Creazilla.com - find at:https://creazilla.com/nodes/3132-christ-the-redeemer-3d-model",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/christ_the_redeemer.glb",
+  "position": [-22.95190572528919, -43.210484249698546, 700],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
 }]
 
