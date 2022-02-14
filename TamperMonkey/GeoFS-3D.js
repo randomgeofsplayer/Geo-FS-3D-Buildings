@@ -27,6 +27,7 @@ fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings
         var position = modelJson.position;
         var rotation = modelJson.rotation;
         var scale = modelJson.scale;
+        var credit = modelJson.credit;
 
         //Check if all of the values are valid or if any need to be set to defaults
         if (url == null){
@@ -43,10 +44,13 @@ fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings
         if (rotation == null){
             rotation = [0,0,0];
         }
-        //Loading the model and adding it to the list of loaded models
+        if (credit != null){
+            print("Credit: "+credit);
+        }
+        //Loading the model
         var model = geofs.api.loadModel(url);
         geofs.api.setModelPositionOrientationAndScale(model,position,rotation,scale);
-        console.log("Spawned: "+name+" at: "+position);
+        console.log("Spawned: "+name+", at: "+position);
         return model
     }
     //Deleting Function
