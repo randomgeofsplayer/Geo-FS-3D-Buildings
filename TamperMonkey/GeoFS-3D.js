@@ -44,13 +44,13 @@ fetch('https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings
         if (rotation == null){
             rotation = [0,0,0];
         }
-        if (credit != null){
-            print("Credit: "+credit);
-        }
         //Loading the model
         var model = geofs.api.loadModel(url);
         geofs.api.setModelPositionOrientationAndScale(model,position,rotation,scale);
         console.log("Spawned: "+name+", at: "+position);
+        if (credit != null){
+            console.log("Model credit: "+credit);
+        }
         return model
     }
     //Deleting Function
