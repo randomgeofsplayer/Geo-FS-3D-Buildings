@@ -273,5 +273,13 @@
   "rotation": [90, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
+},{
+  "name": "Burj Khalifa",
+  "credit": "From:farhad.Guli - find at:https://sketchfab.com/3d-models/burj-khalifa-dubai-f8ec435f7f084037a6e7de3540c19173",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/burj_khalifa.glb",
+  "position": [25.197200624360008, 55.27428520250613, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
 }]
 
