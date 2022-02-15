@@ -309,8 +309,8 @@
   "name": "Colesseum",
   "credit": "From:printable_models - find at:https://free3d.com/3d-model/colosseum-v1--937409.html",
   "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/colusseum2.glb",
-  "position": [41.89021012457387, 12.492328042976265, 30],
-  "rotation": [0, 0, 0],
+  "position": [41.89021012457387, 12.492328042976265, 37],
+  "rotation": [300, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
 }]
