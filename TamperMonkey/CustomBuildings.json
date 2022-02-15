@@ -298,5 +298,12 @@
   "rotation": [0, 0, 0],
   "scale": [5, 5, 5],
   "type": "landmark"
+},{
+  "name": "KSC VAB",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/vab.glb",
+  "position": [28.586122039564163, -80.65132994960933, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
 }]
 
