@@ -313,5 +313,12 @@
   "rotation": [300, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
+},{
+  "name": "Innsbruck Airport",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/innsbrruuuk_airport.glb",
+  "position": [47.25938, 11.34555, 585.5145360185444],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
 }]
 
