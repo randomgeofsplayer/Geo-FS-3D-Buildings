@@ -317,7 +317,7 @@
   "name": "Innsbruck Airport",
   "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/innsbrruuuk_airport.glb",
   "position": [47.25879, 11.34636, 585.5145360185444],
-  "rotation": [115, 0, 0],
+  "rotation": [165, 0, 0],
   "scale": [0.57, 0.57, 0.57],
   "type": "airport"
 }]
