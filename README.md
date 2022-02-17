@@ -1,3 +1,3 @@
 # 3D Buildings for Geo-FS
-Adds buildings to the game
+This addon adds 3D buildings for selected airports around the globe.
 # Geo-FS-3D-Buildings
