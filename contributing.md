@@ -7,3 +7,5 @@ If you would like to work on something for the project, open an issue!
 
 #### Need Assistance?
 Feel free to open an issue, and we'll be happy to help!
+
+Join Our Discord (Soon)
