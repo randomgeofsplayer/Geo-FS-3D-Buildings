@@ -29,7 +29,7 @@
 }, {
   "name": "intrepid",
   "url": "../../../../models/objects/carrier/carrier.gltf",
-  "position": [40.76683642677340, -74.0029338852795, 0],
+  "position": [40.76683642677340, -74.0029338852795, 60],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "addon"
@@ -320,5 +320,11 @@
   "rotation": [90, 0, 0],
   "scale": [0.76, 0.76, 0.76],
   "type": "airport"
+}, {
+  "name": "London City",
+  "url": "https://raw.githubusercontent.com/JolteonYellow/Geo-FS-3D-Buildings/main/TamperMonkey/eglc2.glb",
+  "position": [51.507469, 0.045370, 3.9231506855087783],
+  "rotation": [90, 0, 0],
+  "scale": [0.63, 0.63, 0.63],
+  "type": "airport"
 }]
-
