@@ -322,7 +322,7 @@
   "type": "airport"
 }, {
   "name": "London City",
-  "url": "https://raw.githubusercontent.com/JolteonYellow/Geo-FS-3D-Buildings/main/TamperMonkey/eglc2.glb",
+  "url": "https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/eglc2.glb",
   "position": [51.507469, 0.045370, 3.9231506855087783],
   "rotation": [90, 0, 0],
   "scale": [0.63, 0.63, 0.63],
